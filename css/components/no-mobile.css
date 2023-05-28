@@ -5,11 +5,10 @@
     background-color: var(--yellow);
     width: 100vh;
     display: flex;
-    top: 0;
-    justify-content: center;
+     justify-content: center;
     align-items: center;
     font-size: 32px;
-    top:0;
+    top: 0;
 }
 
 @media screen and (max-width: 745px) {
