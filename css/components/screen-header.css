@@ -28,5 +28,5 @@
 }
 
 .screen-header__icons .fa-cog:hover {
-    animation: rotateCog 3s ease-in-out infinite;
+    animation: rotateCog 1s linear infinite;
 }
